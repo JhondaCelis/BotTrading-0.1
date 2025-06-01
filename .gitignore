@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+*.env
+*.log
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints
+
+# Mac
+.DS_Store
